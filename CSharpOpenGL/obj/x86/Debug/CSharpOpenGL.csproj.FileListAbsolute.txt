@@ -1,0 +1,13 @@
+C:\workspace\OpenGL\CSharpOpenGL\CSharpOpenGL\bin\Debug\CSharpOpenGL.exe.config
+C:\workspace\OpenGL\CSharpOpenGL\CSharpOpenGL\bin\Debug\CSharpOpenGL.exe
+C:\workspace\OpenGL\CSharpOpenGL\CSharpOpenGL\bin\Debug\CSharpOpenGL.pdb
+C:\workspace\OpenGL\CSharpOpenGL\CSharpOpenGL\bin\Debug\SharpGL.dll
+C:\workspace\OpenGL\CSharpOpenGL\CSharpOpenGL\bin\Debug\SharpGL.SceneGraph.dll
+C:\workspace\OpenGL\CSharpOpenGL\CSharpOpenGL\bin\Debug\SharpGL.WinForms.dll
+C:\workspace\OpenGL\CSharpOpenGL\CSharpOpenGL\obj\x86\Debug\CSharpOpenGL.Properties.Resources.resources
+C:\workspace\OpenGL\CSharpOpenGL\CSharpOpenGL\obj\x86\Debug\CSharpOpenGL.SharpGLForm.resources
+C:\workspace\OpenGL\CSharpOpenGL\CSharpOpenGL\obj\x86\Debug\CSharpOpenGL.csproj.GenerateResource.Cache
+C:\workspace\OpenGL\CSharpOpenGL\CSharpOpenGL\obj\x86\Debug\CSharpOpenGL.exe
+C:\workspace\OpenGL\CSharpOpenGL\CSharpOpenGL\obj\x86\Debug\CSharpOpenGL.pdb
+C:\workspace\OpenGL\CSharpOpenGL\CSharpOpenGL\obj\x86\Debug\CSharpOpenGL.csprojResolveAssemblyReference.cache
+C:\workspace\OpenGL\CSharpOpenGL\CSharpOpenGL\bin\Debug\InputData\demo1.txt
