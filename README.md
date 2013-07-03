@@ -1,2 +1,2 @@
-OpenGLRead3dModel
+CShap OpenGL
 =================
